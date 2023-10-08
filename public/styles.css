@@ -63,6 +63,8 @@ button[type="submit"]:hover {
 
 .recipe-image {
     width: 100%;
+    height: auto; 
+    object-fit:cover; 
 }
 
 .recipe-title {
