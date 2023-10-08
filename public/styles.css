@@ -81,6 +81,10 @@ ul {
    button[type="submit"] {
        width : 100%;
    }
+   .container {
+    width : 90%;
+    margin: 5px;
+    }
 }
 
 /* Tablet devices */
@@ -91,6 +95,10 @@ ul {
    button[type="submit"] {
        width : 60%;
    }
+   .container {
+    width : 80%;
+    margin: 20px;
+    }
 }
 
 /* Desktop devices */
@@ -101,4 +109,8 @@ ul {
    button[type="submit"] {
        width : 50%;
    }
+   .container {
+    width : 75%;
+    margin: 50px;
+    }
 }
